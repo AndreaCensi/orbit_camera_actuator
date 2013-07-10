@@ -1,8 +1,11 @@
-# orbit_camera_actuation
+# orbit_camera_actuator
 
-Actuates the Logitech Orbit QuickCam via ROS and libwebcam library.
+Actuates the Logitech Orbit QuickCam via ROS and libwebcam library. 
+
+This is a catkinized version of the old package "orbit_camera_actuation".
 
 ## Components and Dependencies
+
 The following components are involved in controlling the camera:
 * [ROS](http://www.ros.org) - Robot Operation System
 * CreeperCam.cc - Based on stephanie’s code for actuating the camera using libwebcam library.
