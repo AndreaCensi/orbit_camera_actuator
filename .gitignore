@@ -1,0 +1,12 @@
+cmake_install.cmake
+CMakeCache.txt
+CMakeFiles
+catkin
+catkin_generated
+sudo
+apt-get
+install
+ros-groovy-desktop-full
+Makefile
+devel
+cmake/
